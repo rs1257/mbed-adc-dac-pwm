@@ -1,0 +1,3 @@
+# Mbed ADC DAC PWM
+
+Mini project that interacts with the ADC, DAC and PWN of an Mbed hardware device. It can read the value from a small DC input, generate a sine wave and output it via the dac. And more...
